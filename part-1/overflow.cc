@@ -1,3 +1,14 @@
+// Cesar Gutierrez
+// CPSC 353-02
+// 2022-07-26
+// cesarg7@csu.fullerton.edu
+// @cesar-gz
+//
+// Lab 02-01
+//
+// This is an exercise in detecting buffer overflow.
+//
+
 #include <cstring>
 #include <iostream>
 
