@@ -1,3 +1,14 @@
+// Cesar Gutierrez
+// CPSC 353-02
+// 2022-07-28
+// cesarg7@csu.fullerton.edu
+// @cesar-gz
+//
+// Lab 02-02
+//
+// This is an exercise in using the GNU Debugger.
+//
+
 #include <cstring>
 #include <iostream>
 
