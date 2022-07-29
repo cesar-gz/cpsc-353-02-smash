@@ -1,1 +1,0 @@
-[{"directory": "/tmp", "command": "clang++ -g -O3 -Wall -pipe -std=c++14 -I/usr/include/c++/9/ overflow.cc", "file": "overflow.cc"}, {"directory": "/tmp", "command": "clang++ -g -O3 -Wall -pipe -std=c++14 -I/usr/include/c++/9/ run_cmd.cc", "file": "run_cmd.cc"}]
